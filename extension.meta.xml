@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="author_login_redirect" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Author Login Redirect</name>
+	<description>Redirects authors who've logged in to the homepage or a location specified by ?redirect</description>
+	<repo type="github"></repo>
+	<url type="discuss"></url>
+	<types>
+		<type>Other</type>
+	</types>
+	<authors>
+		<author>
+			<name github="davjand" symphony="davjand">David Anderson</name>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0" date="2011-07-28" min="2.3.0" />
+	</releases>
+</extension>
